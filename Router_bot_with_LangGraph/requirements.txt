@@ -1,0 +1,4 @@
+openai
+streamlit
+langgraph
+langchain-core
