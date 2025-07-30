@@ -2,3 +2,4 @@ openai
 streamlit
 langgraph
 langchain-core
+python-dotenv
